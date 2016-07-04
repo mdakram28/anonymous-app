@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">anonymous</string>
+    <array name="pickups">
+        <item>Arasan</item>
+        <item>PR caterers</item>
+        <item>Zenith</item>
+        <item>Darling</item>
+    </array>
+    <array name="weights">
+        <item>1 KG</item>
+        <item>2 KG</item>
+        <item>10 KG</item>
+        <item>20 KG</item>
+        <item>50 KG</item>
+        <item>100 KG</item>
+    </array>
+    <array name="slots">
+        <item>10AM - 12PM</item>
+        <item>3PM - 5PM</item>
+        <item>9PM - 11PM</item>
+    </array>
+</resources>
